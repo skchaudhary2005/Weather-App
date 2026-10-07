@@ -34,4 +34,9 @@ Open index.html in a browser or serve the project with a local web server.
 ## 👨‍💻 Author
 **Sumit Kumar**
 
+
+### 📬 Connect With Me
+- GitHub: [skchaudhary2005](https://github.com/skchaudhary2005)
+- LinkedIn: [Sumit Kumar](https://www.linkedin.com/in/sumit-chaudhary-41b306327/)
+
 ⭐ If you like this project, give the repository a star.
